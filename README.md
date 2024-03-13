@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm 69 KapUchiNo</h1>
+<h1 align="center">Hi 👋, I'm 69 KaPuChiNo</h1>
 <h3 align="center">Beginner Cyber Security Analyst</h3>
 
 <img align="right" alt="Coding" width="1000" src="https://media1.tenor.com/m/AzSYGD6IGZkAAAAC/investigating-connor-black.gif">
