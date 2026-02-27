@@ -1,4 +1,4 @@
-[![MasterHead](https://s9.gifyu.com/images/SU8ni.gif)](https://rishavchanda.io)
+[![MasterHead](https://c.tenor.com/mcLDE9go3woAAAAC/tenor.gif)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm 69 KaPuChiNo</h1>
 <h3 align="center">Penetration Tester/Ethical Hacker </h3>
 
